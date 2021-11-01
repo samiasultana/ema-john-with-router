@@ -1,0 +1,21 @@
+.logo {
+    width: 20%;
+    text-align: center;
+
+}
+nav{
+    background-color: black;
+    line-height: 40px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;  
+    padding: 5px;  
+    font-size: 20px;
+}
+a:hover{
+    background-color: gainsboro;
+    color: black;
+    font-weight: 600;
+}

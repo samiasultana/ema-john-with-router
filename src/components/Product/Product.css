@@ -1,0 +1,17 @@
+.product{
+    display: flex;
+    padding: 30px;
+    margin: 10px;
+    border-bottom: 1px solid lightblue;
+}
+.name{
+    color: blue;
+}
+.purchase-btn{
+    width: 150px;   
+    background-color: goldenrod;
+    border: 1px solid lightblue;
+    height: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
